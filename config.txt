@@ -1,0 +1,7 @@
+[Prior_image]
+KNOWN_DISTANCE = 20
+KNOWN_WIDTH = 15
+image_path = 8.jpg
+
+[face_classifier]
+Classifier_path = D:\VisualStudio\shared\Anaconda3_64\pkgs\libopencv-3.4.1-h875b8b8_3\Library\etc\haarcascades\haarcascade_frontalface_alt2.xml
